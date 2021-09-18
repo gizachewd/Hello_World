@@ -1,3 +1,3 @@
 # Hello_World
 tutorial repository
-I am here ceating my first tutorial github repositories. 
+I am here creating my first tutorial github repositories. 
