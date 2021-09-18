@@ -1,0 +1,29 @@
+{
+    "Homo sapiens Enzyme genes": [
+        {
+            "name": "lactate dehydrognase mRNA",
+            "lenght in bp": 1713,
+            "accession number": "AY_581313.1"
+        },
+        {
+            "name": "Glutamic-puruvic transmainase mRNA",
+            "lenght in bp": 1828,
+            "accession number": "NM_005309.3"
+        },
+        {
+            "name": "Glutamic-oxaloacetic transmainase 1 mRNA",
+            "lenght in bp": 1978,
+            "accession number": "NM_002079.3"
+        },
+        {
+            "name": "angiotensin converting enzyme 2 (ACE2), RefSeqGene on chromosome X",
+            "lenght in bp": 90962,
+            "accession number": "NG_012575.2"
+        },
+        {
+            "name": "gamma-glutamyltransferase 1 (GGT1), RefSeqGene on chromosome 22",
+            "lenght in bp": 52255,
+            "accession number": "NG_008111.1"
+        }
+    ]
+}
